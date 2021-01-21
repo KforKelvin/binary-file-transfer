@@ -1,0 +1,3 @@
+/mnt/c/Users/Kelvin/Desktop/Research/Jan10th/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Kelvin/Desktop/Research/Jan10th/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Kelvin/Desktop/Research/Jan10th/cmake-build-debug/CMakeFiles/Jan10th.dir
